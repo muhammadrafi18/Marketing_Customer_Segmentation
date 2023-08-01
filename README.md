@@ -6,7 +6,7 @@ Customer = File data
 
 Slide1-5 = File foto output code
 
-cluster = File output code machine learning
+Cluster = File output code machine learning
 
 ## Data Customer
 Data tersebut memiliki tujuh kolom dengan penjelasan sebagai berikut:
