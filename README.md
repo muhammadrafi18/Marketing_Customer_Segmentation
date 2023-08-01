@@ -9,4 +9,4 @@ Data tersebut memiliki tujuh kolom dengan penjelasan sebagai berikut:
 - Tipe Residen: Tipe tempat tinggal dari pelanggan kita, untuk dataset ini hanya ada dua kategori: Cluster dan Sector.
 - Nilai Belanja Setahun: Merupakan total belanja yang sudah dikeluarkan oleh pelanggan tersebut.
 
-  
+![alt text](https://github.com/muhammadrafi18/Marketing_Customer_Segmentation/blob/main/Slide1.JPG?raw=true)
