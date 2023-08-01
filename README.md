@@ -1,8 +1,11 @@
 # Marketing_Customer_Segmentation
 ## Files
 Data Science in Marketing Customer Segmentation with Python = File code python
+
 Customer = File data
+
 Slide1-5 = File foto output code
+
 cluster = File output code machine learning
 
 ## Data Customer
